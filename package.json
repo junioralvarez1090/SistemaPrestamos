@@ -1,0 +1,10 @@
+{
+  "name": "sistema-de-prestamos",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de préstamos implementando patrones Strategy, Observer y Factory Method",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "Junior Diaz"
+}
