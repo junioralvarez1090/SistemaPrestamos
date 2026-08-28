@@ -131,7 +131,7 @@ Ctrl + Shift + `
 Desde la terminal ejecuta:
 
 ```bash
-git clone https://github.com/TU-USUARIO/sistema-gestion-prestamos.git
+git clone https://github.com/junioralvarez1090/SistemaPrestamos.git
 ```
 
 Reemplaza:
